@@ -1,6 +1,4 @@
-White Spektrum WordPress Theme
-================================================================================================
-Contributor: benlumia007
+
 Tags: custom-background, custom-header, right-sidebar
 Requres at least: 4.4
 Tested up to: 4.5.3
